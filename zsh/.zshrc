@@ -1,4 +1,4 @@
-source ~/antigen.zsh
+source ~/.zsh/antigen.zsh
 
 # Preload
 export PATH=/home/shanril/.local/bin:$PATH
